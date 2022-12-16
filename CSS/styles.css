@@ -1,0 +1,49 @@
+.box{
+    height: 900px;
+    width:300px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    
+}
+.name{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.job{
+    padding-left: 20px;
+}
+.email{
+    padding-left: 10px;
+}
+.phone{
+    padding-left: 10px;
+}
+.location{
+    padding-left: 10px;
+}
+
+.edu,.skill{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.deg{
+    padding-top: 0px;
+    padding-left: 20px; 
+}
+.course,.dur,.loc,.javas,.Sql,.PHP,.CSS,.html,.C,.java{
+    padding-top: 0px;
+    padding-left: 20px; 
+}
+.side{
+    display: inline-block;
+    background-color:white;
+    width: 800px;
+    height: 900px;
+    position: relative;
+    bottom: 25px;
+    right: 4px;
+    padding-left: 10px;
+    border:1px;
+    background-color: rgb(234, 250, 252);
+}

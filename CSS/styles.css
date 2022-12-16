@@ -1,6 +1,6 @@
 .box{
     height: 900px;
-    width:300px;
+    width:30%x;
     background-color: black;
     color: white;
     display: inline-block;
@@ -38,7 +38,7 @@
 .side{
     display: inline-block;
     background-color:white;
-    width: 800px;
+    width: 70%;
     height: 900px;
     position: relative;
     bottom: 25px;
